@@ -1,0 +1,17 @@
+h2:hover {
+    color: rgb(238, 29, 29);
+}
+h1:active{
+    font-style: italic;
+    color: rgb(235, 19, 19);
+}
+input:focus{
+    background-color: aqua;
+    border: 2px solid black;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: blueviolet;
+}

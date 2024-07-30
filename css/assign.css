@@ -1,0 +1,33 @@
+body{
+    background-image: url(image/h.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+}
+
+.container{
+    height: 500px;
+    width: 800px;
+    display: grid;
+    grid-template-columns: 500px 500px;
+    background-color: white;
+    margin-left: 250px ;
+    margin-top: 50px;
+    margin-bottom: 50px; 
+    margin-right: 250px;
+    align-items: center;
+    
+
+}
+img{
+    height: 500px;
+    width: 400px;
+    justify-content: center;
+}
+h3{
+    text-decoration: underline green 3px;
+justify-content: center;
+}
+
+
+

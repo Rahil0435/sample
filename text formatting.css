@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+p{
+    text-transform: capitalize;
+    word-spacing: 3px;
+    line-height: 25px;
+    text-shadow: 2px 2px 6px black;
+}

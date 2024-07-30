@@ -1,0 +1,7 @@
+h1{
+    border: 1px solid red;
+    outline: dashed;
+    outline-color: blue;
+    outline-width: 3px;
+    outline-offset: 2px;
+}

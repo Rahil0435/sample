@@ -1,0 +1,32 @@
+body{
+    background-image: url(image/h.jpg);
+    background-size: 100%;
+    background-repeat:no-repeat
+}
+.container{
+    height: 800px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 80px;
+    background-image:url(image/pixelcut-export.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+li{
+     display: inline;
+    font-size: 15px;
+    padding: 10px; 
+    color: white;
+}
+ul{
+    margin-left: 490px;
+    padding-top: 30px;
+}
+.link{
+    margin-left: 900px;
+ background-color: white;
+   
+    display: inline;
+    
+}

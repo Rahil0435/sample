@@ -1,0 +1,26 @@
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto ;
+
+
+}
+.one{
+    background-color: green;
+    margin: 4px;
+    padding: 4px;
+}
+.two{
+    background-color: red;
+   margin: 4px;
+   padding: 4px;
+}
+.big{
+    background-color: blue;
+    margin: 4px;
+    padding: 4px;
+    grid-row-start: 2;
+    grid-row-end: 4;
+    grid-column-start: 2;
+    grid-column-end: 4;
+}

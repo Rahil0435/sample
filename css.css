@@ -1,0 +1,14 @@
+h1{
+    border-style: dashed solid dotted;
+    border-color: red green;
+}
+h2{
+    border-style:solid ;
+    border-top-style:dashed ;
+    border-width: 5px 4px 6px;
+    border-color: yellow green orange red;
+}
+h3{
+    border: 1px solid red;
+    border-radius: 5px;
+}

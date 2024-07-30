@@ -1,0 +1,19 @@
+/* .container{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    /* transform: translate(20px,50px);
+    */
+    /* transform: rotate(30deg);
+} */ 
+
+img{
+    margin-left: 500px;
+    height: 20%;
+    width: 20%;
+}
+
+img:hover{
+    transform: rotate(360deg);
+    transition: 5s;
+}

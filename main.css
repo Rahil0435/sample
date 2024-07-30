@@ -1,0 +1,24 @@
+h1{
+    color: azure;
+    text-align: center;
+    background-color: aqua;
+    padding: 30px;
+
+}
+
+p{
+    text-align: center;
+    
+}
+
+h4{
+    text-align: center;
+    background-color: aqua;
+    color: azure;
+    padding: 20px;
+}
+
+h5{
+    text-align: center;
+    font-size: 15px;
+}

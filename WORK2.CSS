@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: rgb(51, 51, 124);
+}
+
+.fru{
+    background-color: rgb(205, 236, 174);
+}
+.veg{
+    background-color:  rgb(224, 152, 224);
+}
+.groc{
+    background-color: rgb(235, 127, 163);
+}
